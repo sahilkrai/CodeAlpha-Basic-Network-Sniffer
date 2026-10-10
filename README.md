@@ -1,4 +1,4 @@
-# Basic Network Packet Sniffer & Analyzer
+# Basic Network Packet Sniffer & Analyzer.
 
 A modular Python program designed to capture live network traffic packets, parse binary headers layer-by-layer, analyze protocol structures, and display payload content.
 
